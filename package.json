@@ -1,0 +1,23 @@
+{
+  "name": "prism-markdown-loader",
+  "version": "1.0.0",
+  "description": "prism-markdown-loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EastLee",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "markdown",
+    "prism",
+    "html"
+  ],
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "markdown-it": "^11.0.0",
+    "markdown-it-prism": "^2.1.1"
+  }
+}
